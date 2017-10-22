@@ -16,7 +16,7 @@
   - [sample json]
 
 
-# Integrating this to swagger UI
+# Integrating with swagger UI
 
 - Clone [swagger UI master] repository into local machine
 - Open dist/index.html file in browser
